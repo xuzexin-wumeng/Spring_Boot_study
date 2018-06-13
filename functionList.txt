@@ -1,9 +1,0 @@
-预计完成功能：
-	*基础springBoot项目
-	*集成slf4j + log4j2
-	*SPRING连接池
-	*spring线程池
-	*spring定时任务
-	*集成swagger
-	*集成springCloud
-	
